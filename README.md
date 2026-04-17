@@ -10,22 +10,17 @@ Se exponen resultados y arquitectura de una red entrenada para la clasificación
   <img src="images/test.png" alt="Resultados de predicción" width="500">
 </p>
 
-<p align="center">
-  Ejemplos de predicciones del modelo sobre el conjunto de prueba.
-</p>
 
-<h2>Arquitectura de la Red</h2>
+<h2>Arquitectura de la Red (Conv-2)</h2>
 
 <p align="center">
-  <img src="images/conv.png" alt="Capas convolucionales" width="500">
+  <img src="images/conv.png" alt="Capas convolucionales" width="600">
 </p>
-
-<h3 align="center">Conv-2</h3>
+<p align="center">Doble capa convolucional</p>
 
 <p align="center">
-  <img src="images/red.png" alt="Capa fully connected" width="500">
+  <img src="images/red.png" alt="Capa fully connected" width="600">
 </p>
-
 <p align="center">
   Representación de la parte densa de la red (Fully Connected + Softmax).
 </p>
